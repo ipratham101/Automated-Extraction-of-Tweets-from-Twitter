@@ -1,0 +1,21 @@
+# Twitter Scraping Automation by Ian Araujo
+
+# Terms used to search tweets
+
+keywords:
+  - "keyword1"
+  - "keyword2"
+  - "keyword3"
+
+# Twitter API credentials
+
+api_oauth:
+  app_name: "XXXXXXXXXX"
+  consumer_key: "XXXXXXXXXX"
+  consumer_key_secret: "XXXXXXXXXX"
+  access_token: "XXXXXXXXXX"
+  access_token_secret: "XXXXXXXXXX"
+
+# Use PostgreSQL database or store files into the system
+
+database: true
